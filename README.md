@@ -5,7 +5,19 @@
 
 
 ### Description 
-This project is a MERN stack web application that utilizes OpenAI's Dall-E model to generate AI images based on user text prompts. The app will have a modern and minimal design, with a dynamic image layout. The user will be able to input text prompts and the app will generate AI images based on the text. The user will also be able to customize the image layout, allowing them to create unique and creative images. The app will also feature a gallery of AI images created by other users, allowing users to explore and discover new images. The app will also feature a search function, allowing users to quickly find images based on keywords.
+
+- This project is a MERN stack web application that utilizes OpenAI's Dall-E model to generate AI images based on user text prompts.
+
+- The app will have a modern and minimal design, with a dynamic image layout. 
+
+- The user will be able to input text prompts and the app will generate AI images based on the text. 
+
+- The user will also be able to customize the image layout, allowing them to create unique and creative images. 
+
+- The app will also feature a gallery of AI images created by other users, allowing users to explore and discover new images. 
+
+- The app will also feature a search function, allowing users to quickly find images based on keywords.
+
 
 ### Screenshots
 
